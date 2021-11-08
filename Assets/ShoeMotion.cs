@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class ShoeMotion : MonoBehaviour
 {
+
+    //
+
     private bool spacebarPressed = false;
 
     void Start()
